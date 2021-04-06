@@ -155,3 +155,4 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 ACCOUNT_LOGOUT_REDIRECT = 'home'
 ACCOUNT_SESSION_REMEMBER = True
+DEFAULT_FROM_EMAIL = 'admin@djangobookstore.com'
